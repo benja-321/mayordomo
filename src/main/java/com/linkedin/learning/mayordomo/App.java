@@ -13,6 +13,6 @@ public class App {
     }
 
     protected static String decora(String s) {
-	return "* " + s;
+	return "* " + s
     }
 }
